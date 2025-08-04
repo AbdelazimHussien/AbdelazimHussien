@@ -24,3 +24,6 @@ I am ML Engineer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AbdelazimHussien"><img src="https://github-readme-stats.vercel.app/api?username=AbdelazimHussien&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AbdelazimHussien's GitHub stats" /></a>
+
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abdelazimhussien.abdelazimhussien)
